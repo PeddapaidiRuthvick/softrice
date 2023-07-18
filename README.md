@@ -1,1 +1,1 @@
-# softrice
+# softrice project
